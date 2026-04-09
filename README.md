@@ -63,3 +63,4 @@ This project demonstrates:
 - Modular test architecture
 - Fixture usage
 - Clean separation of API logic and test logic
+## "🚀 También puedes ver mi framework de automatización Web con Playwright en la rama feature/web-automation de este repositorio."
