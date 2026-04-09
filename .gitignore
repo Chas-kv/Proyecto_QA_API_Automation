@@ -1,0 +1,31 @@
+# Entornos virtuales (Nunca se suben porque son específicos de tu PC)
+venv/
+env*/
+bin/
+lib/
+share/
+Include/
+
+# Python: Archivos temporales de ejecución
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest y Reportes
+.pytest_cache/
+report.html
+.hypothesis/
+
+# Playwright: Evidencia de pruebas (Capturas y Videos)
+test-results/
+playwright-report/
+blob-report/
+videos/
+screenshots/
+
+# Variables de entorno (Seguridad)
+.env
+
+# Archivos de sistema (OS)
+.DS_Store
+Thumbs.db
